@@ -32,6 +32,6 @@ The goal is to generate insights and forecasts that can be easily understood by 
 
 
 
-## 🚀 How to Run
+# To Run:
 1. Clone the repository  
 2. Install required libraries  
